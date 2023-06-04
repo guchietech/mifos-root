@@ -1,4 +1,4 @@
-# MifosX Community App [![Join the chat at https://gitter.im/openMF/community-app](https://badges.gitter.im/openMF/community-app.svg)](https://gitter.im/openMF/community-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Build Status](https://travis-ci.com/openMF/community-app.svg?branch=develop)](https://travis-ci.com/github/openMF/community-app)  [![Docker Hub](https://img.shields.io/docker/pulls/openmf/community-app.svg)](https://hub.docker.com/r/openmf/community-app)  [![Docker Build](https://img.shields.io/docker/cloud/build/openmf/community-app.svg)](https://hub.docker.com/r/openmf/community-app/builds)
+# MifosX Community App 
 
 This is the default web application built on top of the MifosX platform for the mifos user community. It is a Single-Page App (SPA) written in web standard technologies like JavaScript, CSS and HTML5. It leverages common popular frameworks/libraries such as AngularJS, Bootstrap and Font Awesome.
 
@@ -23,7 +23,7 @@ Note that on Linux distributions you'll need to install the Ruby Development pac
 1. Clone this repository to your local filesystem (default branch is 'develop'):
 
    ```
-    git clone https://github.com/openMF/community-app.git
+   git clone https://github.com/guchietech/mifos-root.git
    ```
    
 1. To download the dependencies, and be able to build, first install bower & grunt:
