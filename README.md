@@ -3,12 +3,6 @@
 This is the default web application built on top of the MifosX platform for the mifos user community. It is a Single-Page App (SPA) written in web standard technologies like JavaScript, CSS and HTML5. It leverages common popular frameworks/libraries such as AngularJS, Bootstrap and Font Awesome.
 
 
-## Getting started / Online Demo
-
-The latest version of this UI is continuously re-deployed immediately (CI/CD) at openmf.github.io/community-app every time a Pull Request with a new feature or bugfix is merged.  You should always specify the backend via `baseApiUrl` (see details below), so for example to access the https://www.fineract.dev online demo environment, use:
-
-https://openmf.github.io/community-app?baseApiUrl=https://demo.fineract.dev&tenantIdentifier=default
-
 ## Building from source
 
 1. Ensure you have
